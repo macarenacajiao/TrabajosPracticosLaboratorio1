@@ -1,2 +1,4 @@
 # TrabajosPracticosLaboratorio1
-Trabajos prácticos terminados.
+Trabajos prácticos terminados
+*Calculadora ✔
+*ABM ✔
