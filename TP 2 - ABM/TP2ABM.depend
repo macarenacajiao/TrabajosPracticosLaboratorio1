@@ -1,0 +1,226 @@
+# depslib dependency file v1.0
+1537967818 source:d:\cajiao macarena\tp2abm\arrayemployees.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	"arrayEmployees.h"
+
+1537967806 d:\cajiao macarena\tp2abm\arrayemployees.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+
+1537971886 source:d:\cajiao macarena\tp2abm\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+
+1538238674 source:c:\users\haedo jonathan\downloads\laboratorio-programacion-1-master\laboratorio-programacion-1-master\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	"arrayEmployees.h"
+
+1538238733 source:c:\users\haedo jonathan\downloads\laboratorio-programacion-1-master\laboratorio-programacion-1-master\arrayemployees.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	"arrayEmployees.h"
+
+1538236761 c:\users\haedo jonathan\downloads\laboratorio-programacion-1-master\laboratorio-programacion-1-master\arrayemployees.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+
+1538238733 source:c:\users\haedo jonathan\downloads\laboratorio-programacion-1-master\laboratorio-programacion-1-master\tp 2\arrayemployees.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	"arrayEmployees.h"
+
+1538236761 c:\users\haedo jonathan\downloads\laboratorio-programacion-1-master\laboratorio-programacion-1-master\tp 2\arrayemployees.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+
+1538238674 source:c:\users\haedo jonathan\downloads\laboratorio-programacion-1-master\laboratorio-programacion-1-master\tp 2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	"arrayEmployees.h"
+
+1538252894 source:c:\users\makic\onedrive\documentos\mako\makito\programación utn\codeblocks proyectos\tp 2\arrayemployees.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	"arrayEmployees.h"
+
+1538236761 c:\users\makic\onedrive\documentos\mako\makito\programación utn\codeblocks proyectos\tp 2\arrayemployees.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+
+1538238674 source:c:\users\makic\onedrive\documentos\mako\makito\programación utn\codeblocks proyectos\tp 2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	"arrayEmployees.h"
+
+1538536632 source:c:\users\makic\onedrive\documentos\mako\makito\programación utn\codeblocks proyectos\tp 2 - abm\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	"arrayEmployees.h"
+
+1538535582 c:\users\makic\onedrive\documentos\mako\makito\programación utn\codeblocks proyectos\tp 2 - abm\arrayemployees.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	"utn.h"
+
+1538536741 source:c:\users\makic\onedrive\documentos\mako\makito\programación utn\codeblocks proyectos\tp 2 - abm\arrayemployees.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	"arrayEmployees.h"
+	"utn.h"
+
+1538406120 source:c:\users\alumno\desktop\tp2abm-master\tp 2 - abm\arrayemployees.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	"arrayEmployees.h"
+
+1538406119 c:\users\alumno\desktop\tp2abm-master\tp 2 - abm\arrayemployees.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+
+1538400233 source:c:\users\alumno\desktop\tp2abm-master\tp 2 - abm\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	"arrayEmployees.h"
+
+1538450649 source:c:\users\makic\downloads\tp2abm-master\tp2 abm edit\tp 2 - abm\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	"arrayEmployees.h"
+
+1538449096 c:\users\makic\downloads\tp2abm-master\tp2 abm edit\tp 2 - abm\arrayemployees.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	"utn.h"
+
+1538450779 source:c:\users\makic\downloads\tp2abm-master\tp2 abm edit\tp 2 - abm\arrayemployees.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	"arrayEmployees.h"
+	"utn.h"
+
+1538450479 source:c:\users\makic\downloads\tp2abm-master\tp2 abm edit\tp 2 - abm\utn.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+
+1538445304 c:\users\makic\downloads\tp2abm-master\tp2 abm edit\tp 2 - abm\utn.h
+
+1538515622 source:c:\users\x__bi\desktop\tp 2 - abm\arrayemployees.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	"arrayEmployees.h"
+	"utn.h"
+
+1538514650 c:\users\x__bi\desktop\tp 2 - abm\arrayemployees.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	"utn.h"
+
+1538445304 c:\users\x__bi\desktop\tp 2 - abm\utn.h
+
+1538514996 source:c:\users\x__bi\desktop\tp 2 - abm\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	"arrayEmployees.h"
+
+1538450479 source:c:\users\x__bi\desktop\tp 2 - abm\utn.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+
+1538450479 source:c:\users\makic\onedrive\documentos\mako\makito\programación utn\codeblocks proyectos\tp 2 - abm\utn.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+
+1538445304 c:\users\makic\onedrive\documentos\mako\makito\programación utn\codeblocks proyectos\tp 2 - abm\utn.h
+
+1538450479 source:c:\users\makic\onedrive\documentos\mako\makito\programación utn\codeblocks proyectos\tp 2 - abm\tp2abm\utn.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+
+1538538318 source:c:\users\makic\onedrive\documentos\mako\makito\programación utn\codeblocks proyectos\tp 2 - abm\tp2abm - sin comentarios\arrayemployees.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	"arrayEmployees.h"
+	"utn.h"
+
+1538538430 c:\users\makic\onedrive\documentos\mako\makito\programación utn\codeblocks proyectos\tp 2 - abm\tp2abm - sin comentarios\arrayemployees.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	"utn.h"
+
+1538445304 c:\users\makic\onedrive\documentos\mako\makito\programación utn\codeblocks proyectos\tp 2 - abm\tp2abm - sin comentarios\utn.h
+
+1538450479 source:c:\users\makic\onedrive\documentos\mako\makito\programación utn\codeblocks proyectos\tp 2 - abm\tp2abm - sin comentarios\utn.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+
+1538582421 source:c:\users\makic\onedrive\documentos\mako\makito\programación utn\codeblocks proyectos\tp 2 - abm\tp2abm - sin comentarios\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	"arrayEmployees.h"
+
