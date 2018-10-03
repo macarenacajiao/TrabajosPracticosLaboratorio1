@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1536175569 source:c:\users\makic\onedrive\documentos\mako\makito\programación utn\codeblocks proyectos\tp 1 - calculadora\funcion.c
+
+1536279509 source:c:\users\makic\onedrive\documentos\mako\makito\programación utn\codeblocks proyectos\tp 1 - calculadora\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funcion.h"
+
+1536281374 c:\users\makic\onedrive\documentos\mako\makito\programación utn\codeblocks proyectos\tp 1 - calculadora\funcion.h
+
