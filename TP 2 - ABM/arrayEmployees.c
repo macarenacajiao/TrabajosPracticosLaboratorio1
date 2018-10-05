@@ -208,7 +208,7 @@ int modifyEmployee(sEmployee* list, int len, int id)
                 default :
                     printf(" Opcion incorrecta, ingrese un numero del 1 al 5.");
                 }
-                printf(" ¿Desea continuar? s/n \n :");
+                printf(" Â¿Desea continuar? s/n \n :");
                 fflush(stdin);
                 scanf("%c",&proceed);
                 system("pause");
@@ -326,36 +326,36 @@ int sortEmployees(sEmployee* list, int len, int order)
     return myReturn;
 }
 
-int printEmployee(sEmployee* list, int index)///imprime UN solo empleado
+int printEmployee(sEmployee* list, int index)
 {
-    int myReturn=-1;/// variable para retornar error
-    if (list!=NULL)///verifica que los datos no tengan basura y que len sea positivo
+    int myReturn=-1;
+    if (list!=NULL)
     {
         if(list[index].isEmpty==TAKEN)
         {
             printf ("%5d %20s %20s %10.2f %3d\n", list[index].id, list[index].name, list[index].lastName, list[index].salary, list[index].sector);
-            myReturn=0;///mi variable myReturn me retorna 0
+            myReturn=0;
         }
     }
-    return myReturn;///me retorna Error (-1) si hay error y retorna 0 si esta todo OK.(el return tiene que estar solo una vez en la funcion)
+    return myReturn;
 }
 
 int printEmployees(sEmployee* list, int len)///imprime todos los empleados ingresados
 {
-    int myReturn=-1;///posible error
-    int i;///iteraciones actuales
+    int myReturn=-1;
+    int i;
     if (list!=NULL)
     {
         printf("\n%5s %20s %20s %10s %3s \n", "ID","Nombre","Apellido","Sueldo","Sector");
-        for (i=0; i<len; i++)///creo un for para recorrer la lista de empleados e imprime los datos de cada empleado
+        for (i=0; i<len; i++)
         {
             if(list[i].isEmpty == 0)
             {
                 printEmployee(list, i);
-                myReturn=0;///mi variable myReturn cambia su valor a 0
+                myReturn=0;
             }
         }
     }
-    return myReturn;///en caso de Error me retorna (-1)
+    return myReturn;
 }
 
